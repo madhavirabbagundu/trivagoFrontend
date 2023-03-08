@@ -1,0 +1,254 @@
+@import "react-rater/lib/react-rater.scss";
+
+.hotel-card {
+  width: 100%;
+  background-color: rgb(243, 244, 245);
+}
+.react-rater-star {
+  display: inline-block;
+  color: rgb(252, 158, 21);
+}
+.card {
+  width: 100%;
+  height: 200px;
+  padding: 3px;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 21% auto 30%;
+  gap: 2%;
+}
+
+.card > img {
+  width: 98%;
+  margin: 3px;
+  display: inline-block;
+  height: 98%;
+  border-radius: 5px;
+}
+
+/* Details */
+
+.detail {
+  padding: 8px 0px;
+}
+
+.detail > h3 {
+  margin: 0px;
+}
+
+.rating {
+  margin: 8px 0px;
+}
+.rating > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.rating > span {
+  font-size: 00.875rem;
+}
+
+.location {
+  margin-top: 25px;
+  padding: 10px 5px;
+  border: 1px solid rgb(243, 244, 245);
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.location:hover {
+  background-color: rgb(243, 244, 245);
+}
+.location > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.location > span {
+  font-size: 0.875rem;
+  padding-left: 4px;
+}
+
+.review {
+  padding: 0px 5px;
+  border: 1px solid rgb(243, 244, 245);
+  cursor: pointer;
+  border-radius: 5px;
+}
+.review:hover {
+  background-color: rgb(243, 244, 245);
+}
+
+.review > * {
+  width: 100%;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 8px 0px;
+}
+.excellent-review > *,
+.good-review > * {
+  display: inline-block;
+}
+.excellent-review > .review-span {
+  border: 1px solid rgb(0,95,0);
+  border-radius: 8px;
+  padding: 2px;
+  font-size: 12px;
+  font-weight: 700;
+  height: 1.125rem;
+  width: 2rem;
+  padding: 1px 6px;
+  background-color: rgb(0,95,0);
+  color: white;
+}
+
+.good-review > .review-span {
+  border: 1px solid rgb(252, 158, 21);
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  height: 1.125rem;
+  width: 2rem;
+  padding: 1px 6px;
+  background-color: rgb(252, 158, 21);
+  color: white;
+}
+
+.review > div > h5 {
+  padding-left: 6px;
+}
+.review > div > span {
+  display: inline-block;
+  padding-left: 6px;
+  font-size: 0.875rem;
+}
+
+.booking-details {
+  padding: 5px;
+}
+
+.recommended {
+  background-color: rgb(241, 248, 234);
+  border: 1px solid rgb(241, 248, 234);
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.recommended:hover {
+  border: 1px solid rgb(153, 204, 102);
+}
+
+.recommended > div > span,
+.per-price {
+}
+
+.cancellation > span,
+.per-price {
+  color: rgb(0, 95, 0);
+}
+.cancellation {
+  padding: 5px 0px;
+}
+
+.cancellation > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.cancellation > span {
+  font-size: 11px;
+  letter-spacing: 0.6px;
+}
+.per-price {
+  font-size: 11px;
+  letter-spacing: 0.6px;
+  margin-bottom: 10px;
+}
+.per-price > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.big-price {
+  padding-top: 15px;
+}
+.big-price > * {
+  display: inline-block;
+  vertical-align: bottom;
+}
+.big-price > div > * {
+  display: inline-block;
+  vertical-align: middle;
+  color: rgb(0, 95, 0);
+}
+
+.big-price > h3 {
+  margin: 0;
+}
+.view-deals-button {
+  bottom: 10px;
+}
+/* Other Offers */
+.other-offers {
+  width: 100%;
+  margin-top: 8px;
+}
+.other-offers > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.other-offers > .recom {
+  width: 30%;
+  padding: 9px 7px;
+  border: 1px solid rgb(243, 244, 245);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.recom:hover {
+  background-color: rgb(243, 244, 245);
+}
+.recom > h5 {
+  font-size: 0.6rem;
+  font-weight: 800;
+}
+
+.recom > div > * {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.97rem;
+  font-weight: 800;
+}
+
+.lowest-price {
+  float: right;
+  text-align: left;
+  width: 65%;
+  padding: 9px 7px;
+  border: 1px solid rgb(243, 244, 245);
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.lowest-price:hover {
+  background-color: rgb(243, 244, 245);
+}
+.lowest-price > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.lowest-price > div > h5 {
+  font-size: 0.6rem;
+  font-weight: 800;
+}
+
+.lowest-price > div > .currency > * {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.97rem;
+  font-weight: 800;
+}
+.lowest-price > div > .currency > span {
+  font-size: 0.7rem;
+  font-weight: 500;
+}

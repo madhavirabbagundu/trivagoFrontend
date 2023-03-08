@@ -1,0 +1,381 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+}
+.ChangeBackground{
+    background-color: white;
+}
+#homeImg{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    width:90%;
+    margin-left:15%;
+    margin-right:-15%;
+    grid-gap:3%;
+}
+.first{
+    width:90%;
+    
+}
+.below_Navbar_logo_container{
+  display: flex;
+  width: 46vw;
+  /* border: 1px solid blue; */
+  margin: 8vh 20vw 3vh 20vw;
+  justify-content: space-between;
+  align-items: center;
+}
+/* .below_Navbar_logo_container :nth-child(1){
+    border-right: 1px solid #cecece;
+} */
+.below_Navbar_logo_container > div > img{
+    width: 12vw;
+    /* border: 2px sold blue; */
+}
+.below_Navbar_logo_container > div > div{
+    padding: 1vh;
+    text-align: left;
+    /* border: 1px solid green; */
+}
+.serching_Box{
+    background-color: rgb(249,250,250);
+}
+.inner_Seraching_box{
+    /* border: 1px solid black; */
+    width: 65vw;
+    margin: 3vh 10vw 0vh 20vw;
+    padding-top: 5vh;
+    height: 20vh;
+    border-radius: .5vw;
+}
+.type_box{
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    font-size: .9vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 23vw;
+    gap: 1vh;
+}
+.type_box_sibling{
+    display: flex;
+    justify-content: space-between;
+    border-radius: .8vw;
+    /* border: 1px solid #cecece; */
+}
+.type_box_sibling > div{
+    width: 22vw;
+    /* border: 1px solid red; */
+    background-color: white;
+    padding: 1vh;
+    /* border-radius: .5vw;
+    border-top-left-radius: 0%; */
+}
+.type_box_sibling :nth-child(1){
+    border-bottom-left-radius: .5vw;
+}
+.type_box_sibling :nth-child(3){
+    border-top-right-radius: .5vw;
+    border-bottom-right-radius: .5vw;
+}
+.type_box_sibling > div > select{
+    width: 100%;
+    padding: 1.7vh;
+    border: none;
+    outline: none;
+}
+.type_box_sibling > div >div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.type_box_sibling > div > div > div> button{
+    color: white;
+    background-color: rgb(0,124,194);
+    padding: 1vh;
+    width: 8vw;
+    font-weight: 900;
+    border-radius: .5vw;
+}
+.check_in_out{
+    font-size: 1.5vh;
+}
+.type_box > div{
+   background-color: rgb(231,244,250);
+   text-align: center;
+   border-top-left-radius:.8vw ;
+   border-top-right-radius: .8vw;
+   padding: 1vh;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.compareLine{
+    padding-left: 20vw;
+}
+.companyNameBox{
+    width: 65vw;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    gap: 2vw;
+    margin-left: 21vw;
+    margin-top: 2vh;
+    padding-bottom: 3vh;
+}
+.companyNameBox > div{
+    width: 4.5vw;
+}
+.companyNameBox > div > img,.companyNameBox > div >p{
+    width: 100%;
+    font-size: .8vw;
+}
+.topDestination{
+    padding-left: 20vw;
+    margin-top: 15vh;
+}
+.topDestinationcarouselBox{
+    /* border: 1px solid red; */
+    padding: 2vh 23vh 10vh 23vh;
+}
+.topDestinationSibling{
+    display: flex;
+    width: 15vw;
+    justify-content: space-between;
+    margin-left: 20vw;
+    margin-top: 3vh;
+    color: gray;
+}
+hr{
+    width: 60vw;
+    margin-left: 20vw;
+    margin-top: 1vh;
+}
+.descreptionBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    font-size: 1vw;
+}
+.descreptionBox >div >div{
+    padding: 1vh;
+    text-align: left;
+}
+.descreptionBox >div >p{
+    text-align: left;
+}
+.CitiesNAmeBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1vw;
+    padding-left: 14vw;
+    padding-right: 8vw;
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    font-size: 1vw;
+    margin-top: 8vh;
+    margin-bottom: 5vh;
+   
+}
+.CitiesNAmeBox > div >div{
+    width: 35vw;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.5vh;
+    font-size: .9vw;
+}
+.CitiesNAmeBox > div >div {
+    height: 18vh;
+    overflow-y: scroll;
+    /* border: 1px solid red; */
+}
+.CitiesNAmeBox > div >div > div> ul > li{
+    list-style: none;
+    text-decoration: none;
+
+}
+.CitiesNAmeBox > div >div > div> ul > li:hover {
+    text-decoration: underline;
+}
+.CarouselImage > div  {
+    border-radius: 1vw;
+    height: 100vh;
+    padding: 15vh;
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    line-height: .8vw;
+    /* border: 1px solid red; */
+}
+.CarouselImage > div  >img{
+    height: 50vh;
+}
+.CarouselImage > p + p{
+    font-size: .9vw;
+    margin-top: .5vh;
+}
+
+
+
+
+.Calendar_Box{
+    position: fixed;
+    display: flex;
+    top: 45vh;
+    left: 30vw;
+    z-index: 100;
+}
+.popUpBox{
+    border: 1px solid #cecece;
+    background-color: white;
+    width: 20vw;
+    box-shadow: 1px 0px 38px 0px rgba(0,0,0,0.75);
+    box-sizing: 1vw;
+    position: fixed;
+    top: 22vw;
+    left: 60vw;
+}
+.popUpBox > div{
+    padding: 1vw;
+    display: flex;
+    justify-content: space-between;
+}
+.popUpBox > div > div{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid red; */
+    width: 7vw;
+    justify-content: space-between;
+
+}
+/* .popUpBox > div :nth-child(1){
+    width: 10vw;
+}
+.popUpBox > div :nth-child(2){
+    width: 6vw;
+} */
+.popUpBox > div > div >div>input{
+    width: 1.5vw;
+    border: 1px solid black;
+    border-radius: .2vw;
+    text-align: center;
+}
+
+
+/* //////////////////////////////////////////////////////////////// */
+
+@media (min-width:60px) and (max-width:550px){
+    .below_Navbar_logo_container{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 90vw;
+        gap: 1vw;
+        margin: 5vh 4vw;
+        border: 5px solid blue;
+    }
+    .below_Navbar_logo_container > div > div > h3{
+        font-size: 6vw;
+    }
+    .below_Navbar_logo_container > div > div >p{
+        font-size: 4vw;
+    }
+    .type_box{
+        display: none;
+    }
+    .inner_Seraching_box{
+        margin: 0%;
+        width: 90vw;
+        margin: auto;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .type_box_sibling{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 90vw;
+        margin: auto;
+    }
+    .type_box_sibling > div{
+        width: 90vw;
+    }
+    .compareLine {
+        display: none;
+    }
+    .type_box_sibling > div >div{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .type_box_sibling > div > div > div> button{
+      width: 20vw;
+    }
+    .companyNameBox{
+        width: 65vw;
+        grid-template-columns: repeat(3,1fr);
+        gap: 6vw;
+        margin-left: 10vw;
+        margin-top: 8vh;
+        padding-bottom: 3vh;
+    }
+    .companyNameBox > div{
+        width: 20vw;
+    }
+    .companyNameBox > div > img,.companyNameBox > div >p{
+        width: 100%;
+        font-size: 3vw;
+    }
+    .topDestination{
+        padding-left: 5vw;
+        margin-top: 15vh;
+        font-size: 5vw;
+    }
+    .topDestinationcarouselBox{
+        /* border: 1px solid red; */
+        padding: 2vh 23vh 10vh 23vh;
+    }
+    .topDestinationSibling{
+        width: 50vw;
+        margin-left: 5vw;
+        margin-top: 3vh;
+        /* border: 1px solid red; */
+    }
+    hr{
+        width: 100vw;
+        margin: 0%;
+    }
+    .descreptionBox{
+        grid-template-columns: 1fr;
+        gap: 1vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+        font-size: 1vw;
+        font-size: 3.5vw;
+    }
+    .descreptionBox >div >div{
+        padding: 1vh;
+        text-align: left;
+    }
+    .descreptionBox >div >p{
+        text-align: left;
+    }
+    /* .CitiesNAmeBox{
+        grid-template-columns: 1fr;
+        gap: 1vw;
+        width: 80vw;
+       
+    }
+    .CitiesNAmeBox > div{
+        width: 80vw;
+        border: 1px solid red;
+        margin: auto;
+    }
+    .CitiesNAmeBox > div > div{
+        width: 80vw;
+        font-size: 3vw;
+    } */
+}

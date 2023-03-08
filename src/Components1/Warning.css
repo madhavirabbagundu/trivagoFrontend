@@ -1,0 +1,50 @@
+.WarningBox{
+    position: fixed;
+    top: 35vh;
+    left: 30vw;
+    width: 33vw;
+    /* border: 1px solid red; */
+    z-index: 110;
+    height: 40vh;
+    border-radius: 10px;
+}
+.WarningBox > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.WarningBox > h2{
+    position: relative;
+    color: white;
+    top: -38vh;
+    left: 1vw;
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+}
+.WarningBox  > h1{
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    position: relative;
+    color: white;
+    top: -41vh;
+    left: 30vw;
+    font-size: 1vw;
+}
+.WarningBox  >p{
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    position: relative;
+    color: white;
+    top: -38vh;
+    left: 1vw;
+    font-size: 1vw;
+}
+.WarningBox > button{
+    font-family: Proxima Vara,Arial,Helvetica,Sans,Sans-Serif;
+    position: relative;
+    color: white;
+    top: -20vh;
+    left: 26vw;
+    font-size: 1vw;
+    background-color: #077cc2;
+    padding: 1vh;
+    text-align: center;
+    border-radius: 5px;
+}

@@ -1,0 +1,2 @@
+export const GET_DATA = 'GET_DATA'
+export const GET_ALL_LATEST_TODOS = 'GET_ALL_LATEST_TODOS'

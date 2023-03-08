@@ -1,0 +1,1719 @@
+{
+  "hotels": [
+    {
+      "id":"1",
+      "name": "Sofitel Mumbai BKC",
+      "rating": 5,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/31/79/317933614.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/55/05/550578244.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/57/00/570005706.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213108.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213110.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/56/87/568718658.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213106.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/56/87/568718606.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/56/87/568718606.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213204.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213212.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213230.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213166.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/22/722213128.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/28/72/287215404.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/57/00/570005694.jpeg"
+      ],
+      "about": "Sofitel Mumbai BKC is a five star property situated within the Bandra-Kurla Complex (BKC), one of the city's premier business hubs. With an entire executive floor, it is ideal for business meetings and events, as well as leisure travellers. The 302 rooms in the hotel are sumptuously decorated and have lavish bathrooms with quality fittings. Wi-Fi is complimentary for guests and rooms feature minibars, LCD TVs and 24 hour room service. The hotel is well equipped to handle business events as well as occasions such as weddings. Guests can enjoy leisure facilities such as the pool, the wellness centre or the spa. The hotel’s concierge services can arrange sightseeing and other excursions. The Sofitel Mumbai BKC boasts four haute cuisine restaurants: Jyran (tandoori dining and lounge), Pondicherry Café (all day dining), Tuskers (veg dining and bar) and Artisan (bistro) The hotel is in the middle of Mumbai city's new business hub and just about 1 km from the British Deputy High Commission.",
+      "overallRating":9.5,
+      "review": {
+        "location": 8.5,
+        "room": 9.1,
+        "services": 9.3,
+        "facilities": 9.9,
+        "vom": 8.7
+      },
+      "dist": 1.3,
+      "reviewNumber": 1186,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Balcony (upon inquiry)",
+          "Bathtub (upon inquiry)",
+          "Cable TV",
+          "Desk",
+          "Electric kettle",
+          "Flatscreen TV",
+          "Free WiFi (rooms)",
+          "Fridge",
+          "Hairdryer",
+          "Hypoallegenic bedding",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Shower",
+          "Sitting area",
+          "Telephone",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible bathroom", "Accessible hotel", "Accessible parking", "Teleprinter", "Wheelchair accessible"],
+        "children": ["Childcare", "Cot"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"Booking.com",
+          "price":"11,535",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/626"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"Hotels.com",
+          "price":"11,534",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"Hotels.com",
+          "price":"11,534",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"Hotels.com",
+          "price":"11,534",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"Hotels.com",
+          "price":"11,534",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+        }
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Mumbai",
+      "locality":"Bandra East",
+      "address": "city center"
+    },
+    {
+      "id":"2",
+      "name": "Sahara Star",
+      "rating": 5,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/40/724012036.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/69/526920752.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/78/527899728.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/77/1077257490.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/72/40/724012028.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/30/353008114.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/67/116740736.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/12/04/120486726.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/25/372551346.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/05/300524506.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/20/332052700.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/19/301916176.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/25/372551344.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/26/262625194.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/01/110119258.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/30/353008200.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/69/526920754.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/02/300200844.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/01/110119254.jpeg"
+      ],
+      "about": "Offering four food & beverage establishments and hundreds of rooms, Sahara Star is known for its distinctive, star-shaped dome. It houses a 4,000 square foot Marine Aquarium, and has the world's only private dining room within an aquarium. All guest rooms at this hotel are equipped with modern amenities such as flat-screen TVs, motorized curtains, and glass bathrooms. Mood lighting is standard, and luxury suites are available. The hotel's services include airline reservations, babysitting, courier services, currency exchange, and laundry. Guests can enjoy a full gymnasium while at this property, or stroll around the tropical lagoon. The hotel's restaurants include The Earth Plate, which has truly global cuisine. The Ocean private dining room is located within an aquarium and has an impressively large menu that can be personalised. Sahara Star is located just metres from Mumbai's international airport. Juhu Beach is less than five kilometres away. The iconic Gateway of India is 22 kilometres south of this property.",
+      "overallRating":8.3,
+      "review": {
+        "location": 8.6,
+        "room": 8.4,
+        "services": 8.0,
+        "facilities": 8.3,
+        "vom": 8.2
+      },
+      "dist": 3.3,
+      "reviewNumber": 1975,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Night club",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Electric kettle",
+          "Flatscreen TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Openable windows",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible bathroom", "Accessible hotel", "Wheelchair accessible"],
+        "children": ["Childcare", "Cot"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"makemytrip.com",
+          "price":"8,310",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"makemytrip.com",
+          "price":"11,534",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"makemytrip.com",
+          "price":"8,310",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"11,682",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"Trip.com",
+          "price":"11,681",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/634"
+
+        }
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Mumbai",
+      "locality":"Domestic Airport",
+      "address": "city center"
+    },
+    {
+      "id":"3",
+      "name": "Hotel Milan International",
+      "rating": 3,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672398.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672410.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/52/78/527899728.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672412.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672416.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672418.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/09/370916454.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/09/370916456.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672470.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672474.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672472.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672476.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672488.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/41/50/415014968.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672402.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/41/50/415014966.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672424.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672428.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/16/321672446.jpeg"
+      ],
+      "about": "Located in Santa Cruz West of Mumbai, Hotel Milan International hotel is just a ten-minute walk to Santa Cruz train station and within three miles to the University of Mumbai. Free private parking and rooms with Wi-Fi access are offered in this hotel. All rooms are air-conditioned and fitted with private bathrooms with free toiletries. Each comes with an LCD TV and work desk. Some rooms add a mini-fridge, while upgraded rooms feature separate seating areas, wardrobe, and modern glass bathroom. The 24-hour front desk offers concierge service, luggage storage, laundry/ironing service, and tourist assistance. Banquet halls and a business centre are also available on-site. Local Indian cuisine along with authentic Punjab dishes are served at the Spicy Kitchen Restaurant for breakfast, lunch, and dinner. Other dining options are a ten-minute walk away, which include Shamia Restaurant and Three Wise Monkeys Cafe. Hotel Milan International hotel is within three miles to Chhatrapati Shivaji International Airport and the ISKCON Temple.",
+      "overallRating":5.5,
+      "review": {
+        "location": 6.0,
+        "room": 6.0,
+        "services": 5.5,
+        "facilities": 5.3,
+        "vom": 5.5
+      },
+      "dist": 3.9,
+      "reviewNumber": 1142,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible parking"],
+        "children": []
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"agoda.com",
+          "price":"1,477",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"makemytrip.com",
+          "price":"1,561",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"1,477",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"1,477",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"1,477",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        }
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Mumbai",
+      "locality":"Domestic Airport",
+      "address": "city center"
+    },
+    {
+      "id":"4",
+      "name": "Kumkum",
+      "rating": 2,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141050.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141052.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141056.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141058.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141060.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141090.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141080.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141082.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/49/1049033362.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141046.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/25/372546242.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141062.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/49/56/495664892.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141076.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141078.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/39/333906850.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141110.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/49/53/495371742.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141096.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141100.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/27/11/271141074.jpeg"
+      ],
+      "about": "Take in the views from a rooftop terrace and make use of amenities such as complimentary wireless Internet access and concierge services.For lunch or dinner, stop by Rooftop Cafe, a restaurant that specializes in Indian cuisine. Dining is also available at the coffee shop/café, and 24-hour room service is provided. Cooked-to-order breakfasts are available daily from 6:30 AM to noon for a fee.Featured amenities include complimentary newspapers in the lobby, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle and a train station pick-up service are provided for an additional charge.Make yourself at home in one of the 28 air-conditioned guestrooms. Your room comes with a memory foam bed. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers.Distances are displayed to the nearest 0.1 mile and kilometer. Lamington Road - 0.1 km / 0.1 mi Bhatia Hospital - 0.9 km / 0.6 mi Royal Opera House - 1.2 km / 0.7 mi Mani Bhavan Gandhi Museum - 1.3 km / 0.8 mi Chor Bazaar - 1.5 km / 0.9 mi Mohammed Ali Road - 1.5 km / 0.9 mi Cumballa Hill Hospital - 1.6 km / 1 mi Saifee Hospital - 1.6 km / 1 mi Taraporewala Aquarium - 2.2 km / 1.3 mi Mahalaxmi Temple - 2.3 km / 1.4 mi Prince Aly Khan Hospital - 2.4 km / 1.5 mi Kamala Nehru Park - 2.4 km / 1.5 mi Mahalaxmi Racecourse - 2.4 km / 1.5 mi Jaslok Hospital - 2.5 km / 1.5 mi Hanging Gardens - 2.6 km / 1.6 mi The preferred airport for Hotel Kumkum is Chhatrapati Shivaji International Airport (BOM) - 22.1 km / 13.7 mi With a stay at Hotel Kumkum, you'll be centrally located in Mumbai, within a 5-minute drive of Mohammed Ali Road and Haji Ali Dargah. This hotel is 3.6 mi (5.7 km) from Gateway of India and 10.2 mi (16.4 km) from Juhu Beach.Near Mohammed Ali Road",
+      "overallRating":8.5,
+      "review": {
+        "location": 8.4,
+        "room": 7.5,
+        "services": 8.7,
+        "facilities": 8.3,
+        "vom": 8.5
+      },
+      "dist": 14.2,
+      "reviewNumber": 180,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": [],
+        "accessability": [],
+        "children": []
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"makemytrip.com",
+          "price":"1,930",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"goibibo.com",
+          "price":"1,836",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2636"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"goibibo.com",
+          "price":"2,380",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2636"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"2,352",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"hotels.com",
+          "price":"2,352",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+        }
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Mumbai",
+      "locality":"Lamington Road",
+      "address": "city center"
+    },
+    {
+      "id":"5",
+      "name": "Hotel The Royal Orchid",
+      "rating": 4,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199134.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199122.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199112.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199114.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199116.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199136.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199138.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/71/307104696.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199140.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199146.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/71/307104694.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/96/33/963328722.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/11/661170434.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/11/661170430.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/11/661170432.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199154.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199142.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/11/661170436.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199110.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/51/31/513199118.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/44/484422376.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/76/1076982940.jpeg"
+
+      ],
+      "about": "Make use of convenient amenities such as complimentary wireless Internet access, tour/ticket assistance, and a banquet hall.Enjoy a meal at Orchids, or stay in and take advantage of the hotel's 24-hour room service. Wrap up your day with a drink at the bar/lounge. Buffet breakfasts are available daily for a fee.Featured amenities include complimentary newspapers in the lobby, dry cleaning/laundry services, and a 24-hour front desk. Free self parking is available onsite.Make yourself at home in one of the 37 guestrooms featuring refrigerators and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have showers and complimentary toiletries. Conveniences include phones, as well as safes and desks.Distances are displayed to the nearest 0.1 mile and kilometer. U.S. Consulate General - 4.7 km / 2.9 mi Phoenix Market City Mall - 6.2 km / 3.8 mi KidZania Mumbai - 6.3 km / 3.9 mi JioGarden - 7.1 km / 4.4 mi Bharat Diamond Bourse - 7.1 km / 4.4 mi R City Mall - 7.8 km / 4.8 mi University of Mumbai - 7.9 km / 4.9 mi P.D. Hinduja Hospital & Medical Research Centre - 9 km / 5.6 mi Powai Lake - 9.3 km / 5.8 mi Shivaji Park - 9.9 km / 6.1 mi Lilavati Hospital - 10.4 km / 6.4 mi Tata Memorial Hospital - 10.6 km / 6.6 mi Linking Road - 10.6 km / 6.6 mi Siddhi Vinayak Temple - 10.8 km / 6.7 mi Hiranandani Business Park - Powai - 11 km / 6.8 mi The nearest major airport is Chhatrapati Shivaji International Airport (BOM) - 9.3 km / 5.8 miLocated in Mumbai, The Royal Orchid is within a 15-minute drive of Juhu Beach and Gateway of India. This hotel is 4 mi (6.4 km) from U.S. Consulate General and 4.4 mi (7.1 km) from JioGarden.Near a train station",
+      "overallRating":8.2,
+      "review": {
+        "location": 8.5,
+        "room": 0,
+        "services": 8.5,
+        "facilities": 8.6,
+        "vom": 7.9
+      },
+      "dist": 3.0,
+      "reviewNumber": 166,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": [],
+        "accessability": [],
+        "children": []
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"hotels.com",
+          "price":"2,576",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"hotels.com",
+          "price":"2,576",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"hotels.com",
+          "price":"2,576",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/452"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"4,480",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"4,480",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Mumbai",
+      "locality":"Chembur East",
+      "address": "city center"
+    },
+    {
+      "id":"6",
+      "name": "The Lalit New Delhi",
+      "rating": 5,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/34/353400618.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/14/85/14857984.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/75/337543246.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/69/706913136.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/26/1026278216.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672624.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672628.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/71/22/712257372.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672664.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/60/336020868.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672662.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672676.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672690.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/36/62/366296848.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/34/353400736.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672724.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672640.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/20/332091460.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/16/331672604.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/14/85/14857974.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/14/85/14857980.jpeg"
+
+      ],
+      "about": "An imposing hi-rise particularly well known for its dining and nightlife, The Lalit New Delhi is located in central Delhi, just one kilometre's walk from the greenery of Central Park. The 461 rooms and suites boast a contemporary design. hardwood floors, and amenities such as large flat-screen TVs, entertainment systems, free Wi-Fi, and minibars. A walk-in closet and work desk allow guests to keep both their clothes and papers in order. Guests here can break a sweat in the gym, enjoy pampering at Rejuve Spa, and feast their eyes on works in Delhi's only hotel art gallery. If none of this appeals, soaking up the sun on the pool terrace or shopping in the luxury arcade also await. One of three restaurants, Baluchi offers Indian curries in a sophisticated venue. The pastry chef at The Lalit Boulangerie creates delectable pastries, and 24/7 Bar mixes drinks without considering the time of day. Delhi's iconic Red Fort is about a six-kilometre drive north of The Lalit New Delhi.",
+      "overallRating":7.4,
+      "review": {
+        "location": 8.2,
+        "room": 8.3,
+        "services": 7.8,
+        "facilities": 8.4,
+        "vom": 7.1
+      },
+      "dist": 2.6,
+      "reviewNumber": 3249,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible parking", "Wheelchair accessible"],
+        "children": ["Childcare"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"agoda.com",
+          "price":"3,690",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"3,690",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Delhi",
+      "locality":"Connaught Place",
+      "address": "city center"
+    },
+    {
+      "id":"7",
+      "name": "The Royal Plaza",
+      "rating": 4,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351236.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/36/14/361475604.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313550.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313554.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313556.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313608.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313610.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313612.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351264.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351268.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351270.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351316.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/73/74/737450134.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/11/111173804.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351218.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351300.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351318.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/73/74/737450132.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/36/14/361475620.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/26/53/265351266.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/73/74/737450120.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313558.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/48/43/484313558.jpeg"
+
+      ],
+      "about": "Relax at the full-service spa, where you can enjoy massages. You can take advantage of recreational amenities such as a nightclub, a health club, and an outdoor pool. Additional features at this Edwardian hotel include wireless Internet access (surcharge), concierge services, and a hair salon.Grab a bite at Onyx, one of the hotel's 3 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/café. Quench your thirst with your favorite drink at the bar/lounge. Continental breakfasts are available daily from 8:00 AM to 10:30 AM for a fee.Featured amenities include limo/town car service, express check-out, and complimentary newspapers in the lobby. Planning an event in New Delhi? This hotel has facilities measuring 2000 square feet (186 square meters), including conference space. A shuttle from the airport to the hotel is provided for a surcharge (available 24 hours), and free valet parking is available onsite.Make yourself at home in one of the 419 guestrooms featuring minibars and LCD televisions. Wireless Internet access (surcharge) keeps you connected, and digital programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.Distances are displayed to the nearest 0.1 mile and kilometer. Gurudwara Bangla Sahib - 1 km / 0.6 mi Kasturba Gandhi Marg - 1.1 km / 0.7 mi Jantar Mantar - 1.1 km / 0.7 mi National Museum - 1.3 km / 0.8 mi Palika Bazaar - 1.4 km / 0.9 mi Vigyan Bhavan - 1.7 km / 1 mi Parliament of India - 1.7 km / 1 mi India Gate - 1.8 km / 1.1 mi Secretariat Building - 1.9 km / 1.2 mi Gole Market - 2.3 km / 1.4 mi Laxminarayan Temple - 2.3 km / 1.5 mi Supreme Court - 2.6 km / 1.6 mi Lady Hardinge Medical College - 2.6 km / 1.6 mi Delhi High Court - 2.6 km / 1.6 mi Rashtrapati Bhavan - 2.7 km / 1.7 mi The preferred airport for Hotel The Royal Plaza is Indira Gandhi International Airport (DEL) - 18.3 km / 11.4 mi In the heart of New Delhi, Hotel The Royal Plaza is within a 5-minute drive of India Gate and Gurudwara Bangla Sahib. This 4-star hotel is 1.6 mi (2.5 km) from Parliament of India and 1.6 mi (2.6 km) from Supreme Court.Near Gurudwara Bangla Sahib",
+      "overallRating":7.1,
+      "review": {
+        "location": 8.4,
+        "room": 5.9,
+        "services": 7.0,
+        "facilities": 7.4,
+        "vom": 6.1
+      },
+      "dist": 1.2,
+      "reviewNumber": 3795,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible parking", "Wheelchair accessible"],
+        "children": ["Childcare"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"agoda.com",
+          "price":"3,690",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"3,690",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"makemytrip.com",
+          "price":"4,933",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Delhi",
+      "locality":"Ashoka Road",
+      "address": "city center"
+    },
+    {
+      "id":"8",
+      "name": "FabHotel Marble Arch Karol Bagh",
+      "rating": 3,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932156.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932162.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932158.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932162.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932162.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932162.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932198.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/76/36/763694156.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/76/36/763694156.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932174.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932176.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932160.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932154.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932182.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932152.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/68/19/681906616.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/06/660624336.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/06/660624342.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932178.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932168.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/93/43932200.jpeg"
+
+      ],
+      "about": "",
+      "overallRating":7.9,
+      "review": {
+        "location": 8.4,
+        "room": 7.8,
+        "services": 8.0,
+        "facilities": 8.1,
+        "vom": 7.9
+      },
+      "dist": 4.1,
+      "reviewNumber": 814,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible hotel","Accessible bathroom", "Accessible Parking"],
+        "children": ["Childcare"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"agoda.com",
+          "price":"2,225",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"trip.com",
+          "price":"2,092",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/634"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"trip.com",
+          "price":"2,092",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/634"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"trip.com",
+          "price":"2,241",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/634"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"trip.com",
+          "price":"2,241",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/634"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Delhi",
+      "locality":"Karol Bagh",
+      "address": "city center"
+    },
+    {
+      "id":"9",
+      "name": "Red Fox Delhi Airport",
+      "rating": 4,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/71/48/714862842.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/32/70329858.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/64/52/645243380.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/24/372485058.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/13/04/130430910.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/51/355179766.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/63/85/638516854.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/32/70329856.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/17/321701476.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012132.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012132.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012126.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012126.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012128.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/21/1121042186.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/00/1000684244.jpeg"
+
+      ],
+      "about": "Red Fox Delhi Airport is a four-star hotel situated just three kilometres from the Indira Gandhi International Airport and offers guests an airport shuttle service. Rooms are equipped with Wi-Fi connectivity, a mini-bar, flat-screen television and a desk. Tea and coffee making facilities and a safe are also offered. At the Red Fox Delhi Airport hotel, car rental and excursions can be arranged with the assistance of the on-site tours desk. Furthermore, complimentary parking, a meeting centre and a fitness centre are also featured. Dining options range from in-room breakfast to two restaurant dining options; namely à la carte and buffet style dining. Upon request, special diet menus are also available. To take in the historical sites and landmarks, guests can visit the Malai Mandir temples and, on the opposite side of the spectrum, guests wanting to enjoy a light-hearted day of fun can visit iSkate, the indoor ice-rink nearby.",
+      "overallRating":8.1,
+      "review": {
+        "location": 8.8,
+        "room": 8.0,
+        "services": 8.0,
+        "facilities": 8.5,
+        "vom": 8.2
+      },
+      "dist": 12.4,
+      "reviewNumber": 1645,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": ["Beauty salon", "Massage", "Sauna", "Steam room", "Whirlpool / Hot tub"],
+        "accessability": ["Accessible hotel","Accessible bathroom", "Accessible Parking"],
+        "children": ["Childcare"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"agoda.com",
+          "price":"3,964",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"makemytrip.com",
+          "price":"3,211",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/2192"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"3,964",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"4,908",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"4,908",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Delhi",
+      "locality":"IGI Airport",
+      "address": "city center"
+    },
+    {
+      "id":"10",
+      "name": "Radisson Blu Marina Hotel Connaught Place",
+      "rating": 4,
+      "img": [
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/71/48/714862842.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/32/70329858.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/64/52/645243380.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/37/24/372485058.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/13/04/130430910.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/35/51/355179766.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/63/85/638516854.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/70/32/70329856.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/32/17/321701476.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012132.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012132.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012126.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012126.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/21/90/219012128.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/11/21/1121042186.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/00/1000684244.jpeg"
+
+      ],
+      "about": "Situated just 4.2 miles from Akshardham Temple, Radisson Blu Marina Hotel Connaught Place Hotel features 24-hour room service as well as a range of meeting facilities. Each air conditioned room features free high-speed Wi-Fi access as well as an electronic safe. Guests who are staying in the suites can enjoy a few extras such as a one way shuttle to the airport as well as a 30 minute massage. Radisson Blu Marina Hotel Connaught Place Hotel features Sohum Spa that offers a range of soothing massages. Guests can also keep in shape at the on-site fitness centre or enjoy a drink at The Connaught, a popular Whiskey bar. The Great Kabab Factory offers guests Indian cuisine, while Fifty9, also located on-site, features sumptuous Thai food. This hotel is situated in the heart of the business district, while the Airport Express Line Metro Station is just across the street.",
+      "overallRating":7.6,
+      "review": {
+        "location": 8.5,
+        "room": 7.3,
+        "services": 7.8,
+        "facilities": 7.7,
+        "vom": 7.5
+      },
+      "dist": 2.4,
+      "reviewNumber": 1477,
+      "allAmenities": {
+        "hotel": [
+          "24-hour reception",
+          "24-hour room service",
+          "Airport shuttle",
+          "Breakfast",
+          "Business centre",
+          "Car park",
+          "Cashless payment",
+          "Computer with Internet",
+          "Concierge",
+          "Conference rooms",
+          "Convenience store",
+          "Doctor on site",
+          "Express check-in",
+          "Free WiFi",
+          "Gym",
+          "Hand sanitizer provided",
+          "Hotel bar",
+          "Hotel safe",
+          "Housekeeping",
+          "Lift",
+          "Masks provided",
+          "New safety protocols",
+          "Outdoor swimming pool",
+          "Pets allowed",
+          "Pool",
+          "Pool bar",
+          "Restaurant",
+          "Room service",
+          "Safe distance",
+          "Spa",
+          "Temperature screening",
+          "WiFi in public areas"
+        ],
+        "room": [
+          "Air conditioning",
+          "Cable TV",
+          "Free WiFi (rooms)",
+          "Ironing board",
+          "Safe",
+          "Satellite TV",
+          "Sitting area",
+          "Television",
+          "WiFi"
+        ],
+        "spa": [],
+        "accessability": ["Wheelchair accessible"],
+        "children": ["Childcare"]
+      },
+      "cleanlinessPolicies":[
+          "New safety protocols",
+          "Regular disinfection",
+          "Safe distance",
+          "Hand sanitizer provided",
+          "Temprature screening",
+          "Cashless payment",
+          "Online check-in/check-out",
+          "Masks provied",
+          "Room service",
+          "Response protocol"
+        ],
+      "deals": [
+        {
+          "title":"Recommended deal",
+          "site":"agoda.com",
+          "price":"7,394",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+        },
+        {
+          "title":"Our lowest price 1",
+          "site":"agoda.com",
+          "price":"7,394",
+          "freeCancellation":"false",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"7,394",
+          "freeCancellation":"true",
+          "freeBreakfast": "false",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"agoda.com",
+          "price":"7,954",
+          "freeCancellation":"true",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/395"
+
+        },
+        {
+          "title":"Our lowest price",
+          "site":"zenhotels.com",
+          "price":"4,908",
+          "freeCancellation":"false",
+          "freeBreakfast": "true",
+          "logo":"https://imgcy.trivago.com/e_trim/f_auto,dpr_2,bo_2px_solid_transparent,c_pad,h_24,q_auto,w_80/partnerlogos-s3/1756"
+
+        }
+        
+        
+      ],
+      "freeCancelation": true,
+      "payProp": true,
+      "freeBreakfast": true,
+      "price": [],
+      "location": "Delhi",
+      "locality":"Connaught Circus",
+      "address": "city center"
+    }
+    
+    
+  ],
+  "Top_Cities_Detail":[
+    {
+      "id":"150",
+      "Image":"https://tse2.mm.bing.net/th?id=OIP.IAgO8ysfBUv7Az5IDuS_9gHaF0&pid=Api&P=0&w=208&h=163",
+      "Location":"Hotels in Mumbai",
+      "number":"9650 Hotels",
+      "price":"₹1,477"
+    },
+    {
+      "id":"151",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/64/96/64967_v41.jpeg",
+      "Location":"Hotels in Delhi",
+      "number":"17747 Hotels",
+      "price":"₹2,427"
+    },
+    {
+      "id":"152",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/64/97/64975_v41.jpeg",
+      "Location":"Hotels in Bengaluru",
+      "number":"12567 Hotels",
+      "price":"₹3,031"
+    },
+    {
+      "id":"153",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/64/97/64971_v39.jpeg",
+      "Location":"Hotels in Shimla",
+      "number":"4209 Hotels",
+      "price":"₹3,943"
+    },
+    {
+      "id":"154",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/73/91/73918_v39.jpeg",
+      "Location":"Hotels in Udaipur",
+      "number":"4083 Hotels",
+      "price":"₹3,211"
+    },
+    {
+      "id":"155",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/82/91/82910_v37.jpeg",
+      "Location":"Hotels in Lonavla",
+      "number":"5371 Hotels",
+      "price":"₹1,1746"
+    }
+  ],
+  "Top_Destination":[
+    {
+      "id":"156",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/13/84/13847_v10.jpeg",
+      "Location":"Hotels in Majorca",
+      "number":"70978 Hotels",
+      "price":"₹1,1630"
+    },
+    {
+      "id":"156",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/11/95/119571_v62.jpeg",
+      "Location":"Hotels in Boracacy",
+      "number":"1261 Hotels",
+      "price":"₹5,658"
+    },
+    {
+      "id":"157",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/16/06/16060_v72.jpeg",
+      "Location":"Hotels in Mahe",
+      "number":"1386 Hotels",
+      "price":"₹19,122"
+    },
+    {
+      "id":"158",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/0/216_v27.jpeg",
+      "Location":"Hotels in USA",
+      "number":"21,42,429 Hotels",
+      "price":"₹9,711"
+    },
+    {
+      "id":"159",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/64/93/64935_v73.jpeg",
+      "Location":"Hotels in Himachal Pradesh",
+      "number":"23464 Hotels",
+      "price":"₹3,461"
+    },
+    {
+      "id":"160",
+      "Image":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_258,q_auto,w_258/categoryimages/21/27/21272_v71.jpeg",
+      "Location":"Hotels in Haute-Savoie",
+      "number":"45287 Hotels",
+      "price":"₹1,1811"
+    }
+  ],
+  
+  "users": [
+    {
+      "id": 1,
+      "name": "user1",
+      "phone": "9846284625",
+      "email": "user1@email.com",
+      "password": "user@123",
+      "recentlyvieved": "",
+      "previousbookings": ""
+    },
+    {
+      "name": "Atharva Trib",
+      "phone": "",
+      "email": "tribhuwane.a@gmail.com",
+      "password": "abcd",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 2
+    },
+    {
+      "name": "Menu",
+      "phone": "",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 3
+    },
+    {
+      "name": "shahbaz alam",
+      "phone": "",
+      "email": "abcde@gmail.com",
+      "password": "12345",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 4
+    },
+    {
+      "name": "Menu",
+      "phone": "",
+      "email": "abcdef@gmail.com",
+      "password": "1234567",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 5
+    },
+    {
+      "name": "Menu",
+      "phone": "",
+      "email": "abcdefgh@gmail.com",
+      "password": "123456789",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 6
+    },
+    {
+      "name": "Menu",
+      "phone": "",
+      "email": "sohan@gmail.com",
+      "password": "123456789",
+      "recentlyvieved": "",
+      "previousbookings": "",
+      "id": 7
+    }
+  ]
+}
